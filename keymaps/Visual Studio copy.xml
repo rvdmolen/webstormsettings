@@ -17,6 +17,12 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Vcs.Log.ShowDiff" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
