@@ -4,7 +4,7 @@
     <property name="created">2017-03-21T10:41:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-24T09:56:11</property>
+    <property name="modified">2017-03-29T10:25:51</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -1710,6 +1710,11 @@
       <value>
         <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6dc2b8" />
       </value>
     </option>
     <option name="TYPEDEF">
