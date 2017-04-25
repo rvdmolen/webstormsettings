@@ -1,0 +1,24 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="Injus" value="https://ng2-dev.slack.com/messages/G4BV82QGK" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="Injus" value="@richard" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="Injus" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+    <option name="channels">
+      <map>
+        <entry key="Injus" value="" />
+      </map>
+    </option>
+  </component>
+</application>
