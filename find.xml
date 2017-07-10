@@ -21,9 +21,11 @@
       <mask>*.s</mask>
       <mask>*.spec</mask>
       <mask>*.spec.</mask>
-      <mask>*.spec.ts</mask>
       <mask>*</mask>
       <mask>*.ts</mask>
+      <mask>*.sts</mask>
+      <mask>*.spects</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
