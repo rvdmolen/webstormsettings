@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -24,13 +25,13 @@
       <mask>*.spects</mask>
       <mask>*.spec.ts</mask>
       <mask>*..ts</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.htmnl</mask>
       <mask>*.htmn</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
