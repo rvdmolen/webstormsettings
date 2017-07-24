@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="rvdmolen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.justid.minvenj.nl/" />
+          <option name="userName" value="fa-molenr" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
