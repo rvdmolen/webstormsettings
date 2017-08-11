@@ -31,6 +31,12 @@
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.ts</mask>
+      <mask>*.mts</mask>
+      <mask>*.mots</mask>
+      <mask>*.modts</mask>
+      <mask>*.moduets</mask>
+      <mask>*.moduts</mask>
+      <mask>*.module.ts</mask>
     </recentFileMasks>
   </component>
 </application>
